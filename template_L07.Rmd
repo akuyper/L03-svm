@@ -1,6 +1,9 @@
-# SVM Lab II (L07)
-
-Download the repository as a zip folder and begin an R project for this lab. The zip folder will contain instructions (repeated below) and a template to get an Rmd file started.
+---
+title: "SVM Lab II (L04)"
+author: "Data Science III (STAT 301-3)"
+date: "April 23rd, 2018"
+output: html_document
+---
 
 # Overview
 
@@ -13,6 +16,14 @@ We have split the `wildfires.csv` dataset into a training dataset (`wildfires_tr
 # Exercise
 
 Please complete the following exercise. Be sure your solutions are clearly indicated and that the document is neatly formatted.
+
+#### Load Packages
+
+```{r, message = FALSE}
+# Loading package(s)
+
+```
+<br>
 
 #### Exercise 1
 Located in the northeast of the wilderness area is a wildlife protection zone. It is home to several rare and endangered species, and thus conservationists and park rangers are very interested in whether a given wildfire is likely to reach it. 
