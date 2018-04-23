@@ -1,2 +1,3 @@
-# L07-svm2
-STAT 301-3: SVM Lab II (L07)
+# SVM Lab II (L07)
+
+Under Construction.
