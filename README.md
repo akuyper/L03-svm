@@ -1,4 +1,4 @@
-# SVM Lab II (L07)
+# L03 SVM
 
 Download the repository as a zip folder and begin an R project for this lab. The zip folder will contain instructions (repeated below) and a template to get an Rmd file started.
 
@@ -25,7 +25,7 @@ Our goal is to predict whether a wildfire will reach the wildlife protection zon
 
 3. Use the `tune()` function to select an optimal cost for a support vector machine (polynomial kernel). Use the default value for `degree` and try to determine your own range of values for `cost` to explore. *Alternatively, you could use `tune()` to search for the optimal `cost` and `degree`.* 
 
-Construct a table displaying the test error for these 3 candidate classifiers, the 3 candidate classifiers from the CART Lab II (L04), and the multiple logistic regression fit in CART Lab II (L04)
+Construct a table displaying the test error for these 3 candidate classifiers, the 3 candidate classifiers from L02 CART, and the multiple logistic regression fit in L02 CART.
 
 Calculate the test error for each of the 3 candidate classifiers selected in parts (1) - (3). Which classifier is the best? 
 
