@@ -37,7 +37,7 @@ C. Tune an a support vector classifier with a polynomial kernel to select an opt
 
 Construct a table displaying the test error for these 3 candidate classifiers, the 3 candidate classifiers from L02 CART, and the multiple logistic regression fit in L02 CART.
 
-Calculate the test error for each of the 3 candidate classifiers selected in parts (1) - (3). Which classifier is the best? 
+Calculate the test error for each of the 3 candidate classifiers selected in parts (A) - (C). Which classifier is the best? 
 
 <br><br>
 
