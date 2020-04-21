@@ -1,6 +1,9 @@
-# L03 SVM
-
-Clone or download the repository as a zip folder and begin an `R` project for this lab. The directory contains instructions (repeated below) and a template to get an `.Rmd` file started.
+---
+title: "SVM Lab II (L04)"
+author: "Data Science III (STAT 301-3)"
+date: ""
+output: html_document
+---
 
 # Overview
 
