@@ -15,7 +15,7 @@ We have split the `wildfires.csv` dataset into a training dataset (`wildfires_tr
 Located in the northeast of the wilderness area is a wildlife protection zone. It is home to several rare and endangered species, and thus conservationists and park rangers are very interested in whether a given wildfire is likely to reach it. The following exercises involve fitting models to predict if a wildfire reaches this zone. Please complete the exercises; be sure your solutions are clearly indicated and that the document is neatly formatted.
 
 
-### Exercise 1
+#### Exercise 1
 
 In the following exercise, you will be fitting and tuning several different candidate models. You will then be asked to compare the tuned models. The data furnished to you for this lab are already split into a training and test set. Describe how you will use these two sets of data to tune and compare these candidate models. Will you need to create additional splits? Where will you apply cross-validation (if at all)? **Justify your approach.**
 
